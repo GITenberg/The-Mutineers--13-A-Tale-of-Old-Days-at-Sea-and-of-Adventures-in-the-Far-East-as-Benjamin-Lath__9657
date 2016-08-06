@@ -1,0 +1,25 @@
+_repo: The-Mutineers--13-A-Tale-of-Old-Days-at-Sea-and-of-Adventures-in-the-Far-East-as-Benjamin-Lath__9657
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawes, Charles Boardman
+    birthdate: 1889
+    deathdate: 1923
+    gutenberg_agent_id: '3120'
+    url: http://www.gutenberg.org/2009/agents/3120
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcc 'PZ'
+- GITenberg
+title: "The Mutineers\r\nA Tale of Old Days at Sea and of Adventures in the Far East\
+  \ as Benjamin Lathrop Set It Down Some Sixty Years Ago"
+url: http://www.gutenberg.org/ebooks/9657
